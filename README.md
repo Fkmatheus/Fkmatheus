@@ -1,4 +1,9 @@
 
+## 🚀 Desenvolvedor Back-End | Python • APIs • Bancos de Dados  
+Olá! Meu nome é Matheus e sou apaixonado por tecnologia e desenvolvimento back-end. Trabalho criando soluções robustas, escaláveis e eficientes, com foco em Python, APIs REST e integração com bancos de dados relacionais.  
+
+##
+  
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fkmatheus&show_icons=true&theme=dracula)
