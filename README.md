@@ -1,12 +1,4 @@
 
-<p align="center">
-
-## Olá! Eu sou o Matheus, um profissional de anos de experiência na área administrativa que está migrando para a área de técnologia como desenvolvedor Back-end, atualmente focando meus estudos em Python e Django.
-
-</p>
-
----
-
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fkmatheus&show_icons=true&theme=dracula)
