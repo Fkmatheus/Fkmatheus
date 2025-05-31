@@ -14,15 +14,7 @@ Olá! Meu nome é Matheus tenho 20 anos, sou estudante de Ciência da Computaç�
 </div>
 
 ##
-### 📊 Estatísticas
-<div align="left">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fkmatheus&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fkmatheus&layout=compact&theme=dracula)
-
-</div>
-
-##
 ### 🤖 Linguagens e Tecnologias
 <div align="left">
 
@@ -35,6 +27,15 @@ Olá! Meu nome é Matheus tenho 20 anos, sou estudante de Ciência da Computaç�
   <img alt="Matheus-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
+
+### 📊 Estatísticas
+<div align="left">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fkmatheus&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fkmatheus&layout=compact&theme=dracula)
+
+</div>
+
 
 
 
