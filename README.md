@@ -31,8 +31,8 @@ Olá! Meu nome é Matheus tenho 25 anos, sou estudante de Ciência da Computaç�
 ### 📊 Estatísticas
 <div align="left">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fkmatheus&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fkmatheus&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fkmatheus&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fkmatheus&layout=compact&theme=tokyonight)
 
 </div>
 
