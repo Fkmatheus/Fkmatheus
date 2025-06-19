@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back_end`**
 
-Olá! Meu nome é Matheus tenho 25 anos, sou estudante de Ciência da Computação e sou apaixonado por tecnologia e desenvolvimento back-end..
+Olá! Meu nome é Matheus tenho 25 anos, sou estudante de Ciência da Computação e sou apaixonado por tecnologia e desenvolvimento back-end.
 
 <div align="left"> 
   <a href = "mailto:fkmatheus.profissional@gmail.com">
